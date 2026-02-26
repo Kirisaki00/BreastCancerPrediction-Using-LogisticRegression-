@@ -1,7 +1,3 @@
-Beautiful. Now we make this look like a proper deployed ML project, not just code sitting in a repo. ✨
-
-Here is your customized README.md — copy this into your GitHub repository’s README file.
-
 🧠 Breast Cancer Prediction Web App
 
 A Machine Learning web application that predicts whether a breast tumor is Cancerous (Malignant) or Not Cancerous (Benign) using clinical features from the Breast Cancer Wisconsin dataset.
